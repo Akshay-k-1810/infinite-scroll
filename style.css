@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Concert+One&family=PT+Sans+Narrow&family=Pacifico&family=Permanent+Marker&family=Poiret+One&family=Quicksand:wght@500&family=The+Nautigal:wght@700&display=swap');
 
 html {
   box-sizing: border-box;
@@ -6,7 +5,8 @@ html {
 
 body {
   margin: 0;
-  font-family: Bebas Neue, sans-serif;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-decoration: underline;
 }
 
 /* Title */
