@@ -69,7 +69,7 @@ async function retrievePhotos() {
 window.addEventListener('scroll', () => {
   if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 1000 && ready) {
     ready = false
-    getPhotos()
+    showPhotos()
   }
 })
 
